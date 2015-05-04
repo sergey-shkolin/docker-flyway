@@ -19,6 +19,7 @@ repair   : Repairs the metadata table
 ### Configuration
 
 Directory for SQL: /flyway/sql/
+
 Configuration file: /flyway/conf/flyway.conf
 
 ```
